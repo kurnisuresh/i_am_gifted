@@ -1,0 +1,11 @@
+class LevelsController < ApplicationController
+def level
+end
+def noun
+end
+def adjective
+end
+def pronoun
+end
+end
+
