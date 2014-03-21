@@ -11,7 +11,4 @@
  *= require_self
  *= require_tree .
  */
-function flip_image(fading, appearing) {
-  fading.visualEffect('fade');
-    appearing.visualEffect('appear', {queue: 'end'});
-}
+
